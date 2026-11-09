@@ -1,0 +1,13 @@
+# Binary hasil build
+edumaster-go.exe
+*.exe
+*.exe~
+
+# Runtime logs
+*.log
+go-4000.*
+
+# Environment dan data runtime
+.env
+uploads/
+logs/
